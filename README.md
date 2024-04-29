@@ -1,4 +1,4 @@
-# Safertek-Backend-2
+# Safertek
 
 This repository contains two Python scripts (`Task1.py` and `Task2.py`) for the Safertek Backend Exam. These scripts interact with a MySQL database to perform various operations.
 
